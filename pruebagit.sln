@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pruebagit", "pruebagit\pruebagit.csproj", "{F7E81238-9CEE-41BA-9D89-C9226A84A66F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7E81238-9CEE-41BA-9D89-C9226A84A66F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E81238-9CEE-41BA-9D89-C9226A84A66F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E81238-9CEE-41BA-9D89-C9226A84A66F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E81238-9CEE-41BA-9D89-C9226A84A66F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E996FEAA-2DAB-42F3-A81C-75313A1D7069}
+	EndGlobalSection
+EndGlobal
